@@ -1,4 +1,5 @@
-composer install
-npm i
-npm run dev
-php artisan serve # or any other webserver you use
+# running
+- ``composer install``
+- ``npm i``
+- ``npm run dev``
+- ``php artisan serve`` or any other webserver you use
